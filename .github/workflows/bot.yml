@@ -1,4 +1,4 @@
-name: gfwlist2pac
+name: update
 
 on:
   workflow_dispatch:
