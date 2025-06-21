@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-20 01:30:52
- * GFWList Last-Modified: 2025-06-19 11:48:54
+ * Generated: 2025-06-21 01:30:29
+ * GFWList Last-Modified: 2025-06-20 14:29:33
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -388,6 +388,7 @@ var rules = [
             "amnestyusa.org",
             "ampproject.org",
             "amtb-taipei.org",
+            "amuletmc.com",
             "anchor.fm",
             "anchorfree.com",
             "ancsconf.org",
