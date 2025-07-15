@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-14 01:31:25
- * GFWList Last-Modified: 2025-07-09 03:20:57
+ * Generated: 2025-07-15 01:31:24
+ * GFWList Last-Modified: 2025-07-14 09:55:03
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5685,6 +5685,7 @@ var rules = [
             "www.thechinastory.org",
             "www.wan-press.org",
             "www.websnapr.com",
+            "www.xicons.org",
             "www.zensur.freerk.com",
             "www1.american.edu",
             "www1.biz",
