@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-28 01:31:58
- * GFWList Last-Modified: 2026-01-20 12:11:50
+ * Generated: 2026-01-29 01:32:39
+ * GFWList Last-Modified: 2026-01-28 03:16:39
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -559,6 +559,7 @@ var rules = [
             "babylonbee.com",
             "babynet.com.hk",
             "backchina.com",
+            "backend-v2.crixet.com",
             "backpackers.com.tw",
             "backtotiananmen.com",
             "bad.news",
