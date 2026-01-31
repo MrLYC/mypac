@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-29 01:32:39
- * GFWList Last-Modified: 2026-01-28 03:16:39
+ * Generated: 2026-01-31 01:32:26
+ * GFWList Last-Modified: 2026-01-30 12:58:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1915,6 +1915,7 @@ var rules = [
             "freess.org",
             "freessh.us",
             "freetcp.com",
+            "freeterabox.com",
             "freetibet.net",
             "freetibet.org",
             "freetibetanheroes.org",
@@ -4531,6 +4532,7 @@ var rules = [
             "silkbook.com",
             "silvergatebank.com",
             "simbolostwitter.com",
+            "simianx.ai",
             "simplecd.me",
             "simplecd.org",
             "simpleproductivityblog.com",
@@ -5935,6 +5937,7 @@ var rules = [
             "yesasia.com.hk",
             "yespornplease.com",
             "yeyeclub.com",
+            "yfsp.tv",
             "ygto.com",
             "yhcw.net",
             "yibada.com",
