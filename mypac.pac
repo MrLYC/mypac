@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-17 02:15:48
- * GFWList Last-Modified: 2026-08-10 15:55:25
+ * Generated: 2026-08-18 02:11:18
+ * GFWList Last-Modified: 2026-08-17 08:21:55
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2295,6 +2295,7 @@ var rules = [
             "livemint.com",
             "livestream.com",
             "livevideo.com",
+            "livingatlas.arcgis.com",
             "livingstream.com",
             "lmarena.ai",
             "localbitcoins.com",
