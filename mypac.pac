@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-09-05 05:09:11
- * GFWList Last-Modified: 2026-09-05 04:50:33
+ * Generated: 2026-09-06 05:23:43
+ * GFWList Last-Modified: 2026-09-05 05:29:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1828,6 +1828,7 @@ var rules = [
             "helpeachpeople.com",
             "helpster.de",
             "hembed.com",
+            "hentai.tv",
             "heqinglian.net",
             "heritage.org",
             "herokuapp.com",
